@@ -3,7 +3,7 @@ class FinancePage {
     open() {
 
         cy.get('.GOE98c').click()
-        cy.get('a:contains(Finance)').click()
+        cy.get('a:contains(Finance):eq(0)').click()
         this.getIframeBody().find('button[aria-label="OK, Got it"]')
         cy.should('have.text', 'OK, Got it').click()
     }

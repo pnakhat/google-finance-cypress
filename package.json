@@ -14,7 +14,7 @@
     "allure:open": "allure open",
     "allure:history": "mv -f allure-report/history allure-results/history && rm -r allure-report || true"
   },
-  "author": "",
+  "author": "Pankaj Nakhat",
   "license": "ISC",
   "devDependencies": {
     "@shelex/cypress-allure-plugin": "^2.8.2",
