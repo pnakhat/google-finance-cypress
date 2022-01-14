@@ -11,6 +11,11 @@
 
 ```  
 Please find the video of the run here 
+
+
+https://github.com/pnakhat/google-finance-cypress#:~:text=googlefinance.feature.mp4
+
+
   
   
  
