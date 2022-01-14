@@ -1,0 +1,11 @@
+[ {
+  "uid" : "c5dbfe94bb55f5d7",
+  "name" : "Opening a search engine page",
+  "time" : {
+    "start" : 1642118561022,
+    "stop" : 1642118574118,
+    "duration" : 13096
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
