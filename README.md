@@ -16,6 +16,18 @@ Please find the video of the run here
 https://github.com/pnakhat/google-finance-cypress#:~:text=googlefinance.feature.mp4
 
 
+
+
+## Reports
+
+
+![Alt text](https://github.com/pnakhat/google-finance-cypress/blob/main/Screenshot%202022-01-14%20at%2010.51.17.png "Allure Report")
+
+![Alt text](https://github.com/pnakhat/google-finance-cypress/blob/main/Screenshot%202022-01-14%20at%2010.51.33.png "Allure Report")
+
+
+
+
   
   
  
